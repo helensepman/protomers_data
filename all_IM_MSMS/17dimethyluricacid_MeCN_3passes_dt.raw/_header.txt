@@ -1,0 +1,6 @@
+$$ Acquired Name: 201111_71
+$$ Acquired Date: 11-Nov-2020
+$$ Acquired Time: 17:10:02
+$$ Conditions: (49.9728,1199.47) (0,1e+06) (0,199)
+$$ Sample Description: 1,7-dimethyluric acid MeCN
+$$ Cal Function 1: -9.355286733743300E-05,1.000360929506428E+00,-1.489252796330312E-05,6.858363977656489E-07,-1.522219557418063E-08,1.313503015399751E-10,T1
